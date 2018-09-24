@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# a simple script to dump and rotate Webserver and MySQL backups
+# A simple script to dump and rotate Webserver and MySQL backups
 #
 # Copyright (c) 2018 Harris Marfel
 #
