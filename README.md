@@ -11,6 +11,8 @@ A simple script to dump and rotate Webserver and MySQL backups
 <li><code>GDrive_Folder_ID=""</code> #Enter gDrive folder ID</li>
 </ul>
 
+How to use it? Just run like a regular shell script!
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
